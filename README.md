@@ -1,2 +1,2 @@
 # JavaScript-guideline
-test
+js是美妙的语言。
